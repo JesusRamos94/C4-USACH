@@ -10,7 +10,7 @@ for ( const value of note ) {
 
 return total;
 
-}
+};
 
 sum( schoolNotes );
 
