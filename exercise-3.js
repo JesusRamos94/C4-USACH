@@ -18,7 +18,7 @@ const averages = ( average ) => {
     return average / schoolNotes.length;
 };
 
-console.log(averages( total ));
+console.log(averages( total ) );
 
 
 
